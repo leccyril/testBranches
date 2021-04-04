@@ -12,4 +12,4 @@ develop commit 2
 DEV3 commit
 DEV3 commit 2
 
-DEV 4 commit
+DEV 4 commit 2
