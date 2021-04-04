@@ -8,3 +8,4 @@ DEV2 commit 1
 
 Develop after create DEV 2 branches
 
+DEV3 commit
